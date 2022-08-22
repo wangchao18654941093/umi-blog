@@ -12,6 +12,7 @@
 .idea
 .output
 .vercel
-
+.history
 # API directory is built by Umi
 /api
+
